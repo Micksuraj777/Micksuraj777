@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=mick&label=50&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Diya+El+Fadhil;I'm+From+Kerala,+India" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Mick+Suraj;I'm+From+Kerala,+India" />
 </h3>
 
-<h3 align="center">Passionate Software Developer from India 🇮🇳</h3>
+<h3 align="center">Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <br/>
 
