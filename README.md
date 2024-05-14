@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=diya-el-fadhil&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mick&label=50&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Diya+El+Fadhil;I'm+From+Kerala,+India" />
@@ -19,8 +19,8 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
  </div>
 
  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mick Suraj&show_icons=true&locale=en&theme=dark" alt="micksuraj" height="150">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mick Suraj&theme=dark" alt="micksuraj" height="150">  
+    <img src="https://github-readme-stats.vercel.app/api?username=Micksuraj777&show_icons=true&locale=en&theme=dark" alt="micksuraj" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micksuraj777&theme=dark" alt="micksuraj" height="150">  
 </div>
 
 <br/>
