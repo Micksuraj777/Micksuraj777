@@ -51,7 +51,7 @@ I'm excited to learn and contribute while gaining hands-on experience in softwar
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,github,figma,git,python,javascript,java,mysql,c,next,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,github,figma,git,python,javascript,react.next,java,mysql,c" />
 </div>
 
 <br/><br/>
