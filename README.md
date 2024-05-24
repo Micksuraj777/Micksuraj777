@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=mick&label=50&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Developers;+I'm+Mick+Suraj;I'm+From+Kerala,+India" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=25&pause=1000&color=0FF714&multiline=true&random=false&width=435&lines=I'm+Mick+Web+Developer+from+kerala)](https://git.io/typing-svg)
 </h3>
 
 <h3 align="center">Passionate Full Stack Developer from India 🇮🇳</h3>
