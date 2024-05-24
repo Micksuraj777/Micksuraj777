@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=mick&label=50&pretty=false)](https://visitcount.itsvg.in)
 
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=I'm+Mick+a+full+stack+Web+Developer+from+kerala"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=I'm+Mick+Web+Developer+from+kerala"/>
 </h3>
 
 <h3 align="center">Passionate Full Stack Developer from India 🇮🇳</h3>
